@@ -1,0 +1,27 @@
+.Head{
+    background-attachment: fixed;
+    background-image: url('https://images.pexels.com/photos/4793432/pexels-photo-4793432.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    font-size: larger;
+    text-size-adjust: 100px;
+    
+}
+.heading{
+    text-align: center;
+    background-color: aqua;
+    background-size: cover;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    font-weight: 300;
+}
+.w-fulls{
+    height: fit-content;
+    width:30vw;
+ 
+}
+.w-fullss{
+    height: 40vh;
+    width:30vw;
+}
